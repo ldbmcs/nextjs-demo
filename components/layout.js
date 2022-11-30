@@ -1,9 +1,9 @@
 import Head from 'next/head';
 import styles from './layout.module.css';
 import Link from 'next/link';
-// import('./hotjar');
+import('./hotjar');
 import('./npsmeter');
-// import('./refiner');
+import('./refiner');
 import('./howxm');
 
 export const siteTitle = 'Next.js Sample Website';
