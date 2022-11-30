@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import styles from './layout.module.css';
 import Link from 'next/link';
+import('./hotjar');
 
 const name = 'dcs';
 export const siteTitle = 'Next.js Sample Website';
