@@ -1,0 +1,3 @@
+  (function (a, b, c, d, e, f) {a.npsmeter = a.npsmeter || function () {(a.npsmeter.q = a.npsmeter.q || []).push(arguments);}; a._npsSettings = { npsid: 'c16349ae4f38c949', npssv: '1.01' };e = b.getElementsByTagName('head')[0]; f = b.createElement('script'); f.async = 1; f.src = c + d + a._npsSettings.npssv + '&npsid=' + a._npsSettings.npsid;e.appendChild(f);})(window, document, 'https://static.npsmeter.cn/npsmeter', '.js?sv=');
+
+  npsmeter({key : 'c16349ae4f38c949',user_id : '3785',user_name : 'ldbmcs'})
