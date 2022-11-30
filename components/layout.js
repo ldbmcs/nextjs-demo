@@ -2,7 +2,7 @@ import Head from 'next/head';
 import styles from './layout.module.css';
 import Link from 'next/link';
 
-const name = 'dcs';
+const name = 'deng chaosheng';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
