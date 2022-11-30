@@ -4,6 +4,7 @@ import Link from 'next/link';
 import('./hotjar');
 import('./npsmeter');
 import('./refiner');
+import('./howxm');
 
 export const siteTitle = 'Next.js Sample Website';
 
