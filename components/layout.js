@@ -3,8 +3,8 @@ import styles from './layout.module.css';
 import Link from 'next/link';
 import('./hotjar');
 import('./npsmeter');
+import('./refiner');
 
-const name = 'dcs';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
